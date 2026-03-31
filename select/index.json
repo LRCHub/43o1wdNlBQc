@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "とびら開けて (日本語歌)",
+  "base_artist": "神田沙也加、津田英佑",
+  "createdAt": "2026-03-31T04:35:12.525401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "とびら開けて(日本語歌)",
+      "artist": "神田沙也加, 津田英佑",
+      "has_synced": true,
+      "path": "select/01_とびら開けて(日本語歌)_神田沙也加,_津田英佑.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "とびら開けて - 日本語歌",
+      "artist": "Sayaka Kanda",
+      "has_synced": true,
+      "path": "select/02_とびら開けて_-_日本語歌_Sayaka_Kanda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とびら開けて(日本語歌)",
+      "artist": "神田沙也加、津田英佑",
+      "has_synced": false,
+      "path": "select/pl_01_とびら開けて(日本語歌)_神田沙也加、津田英佑.txt"
+    }
+  ]
+}
